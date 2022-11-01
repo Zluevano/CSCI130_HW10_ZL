@@ -10,8 +10,10 @@ int total = 0, *nPt;
 
 nPt = nums; // Store the address of nums[0] in nPt
 cout << *nums + NUMS << endl;
-  
-while (nPt < nums + NUMS)
+
+
+// Using a while true statement for the for loop this is easily accomplished Chapter V
+for (;nPt < nums + NUMS;)
     total += *nPt++;
     cout << total << endl;
 

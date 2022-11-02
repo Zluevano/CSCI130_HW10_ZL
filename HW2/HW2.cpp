@@ -1,3 +1,5 @@
+
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
@@ -20,7 +22,8 @@ int fallH, fallM;
 char C;
 
 
-  
+
+
 cin >> month;
 cin >> day;
 cin >> year;

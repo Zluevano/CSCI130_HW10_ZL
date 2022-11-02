@@ -1,3 +1,11 @@
+/*
+Programmer: Zachary Luevano
+
+Instructor: Dr. Mellenthin
+
+Description: Took some looking back at class work but simply makes a struct which is then filled with a for loop similar in style to an array acutally, but after several points for the struct are filled it does some basic calculations for MPG.
+*/  
+
 #include <iostream>
 
 using namespace std;

@@ -3,7 +3,7 @@ Programmer: Zachary Luevano
 
 Instructor: Dr. Mellenthin
 
-Description: Kattis is not treating me well this time, I'm really close on this I have another HW1 in here but this seems to be a closer approach. It does work as far as I can see with every case you could think of it even passes the first test case I just can't figure out why it wont work.
+Description: This took way too long and it's 2AM as of finishing this, the way this works is fairly simple. a string is formated by the length of the word. This then goes through a while loop that if the letter inputed is equal to a letter in the word then it sets a bool to true and output a true or right if this wasn't kattis that is. Otherwise at the end it outputs a message through a variable that displays either a win or a lose. 
 */  
 
 #include <iostream>

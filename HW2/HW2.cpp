@@ -1,4 +1,12 @@
+/*
+Programmer: Zachary Luevano
 
+Instructor: Dr. Mellenthin
+
+Description: Kattis problem I could only get the first instance to pass if I let the loop = to 4 which is the given first test case. My problem was ending the program when a '\n' was entered, no matter what I tried I just couldn't get it to run right with the given code.
+
+The program does what it needs to however, you enter a month day and year and then two times in proper format which the program then finds the gap of time in between it.
+*/  
 
 #include <iostream>
 #include <iomanip>
